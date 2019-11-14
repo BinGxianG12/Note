@@ -1,5 +1,7 @@
 # 1. 关于markdown如何使用
 
+[[TOC]]
+
 ## 1.1. 标题Heading
 
 [演示](./Header.md)
